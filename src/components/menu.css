@@ -1,0 +1,8 @@
+.Menu {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    color: rgb(87, 170, 222);
+    gap: 10px;
+}
