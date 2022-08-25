@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://deepanshuyadav5020.github.io/My-Website/static/css/main.f8ed686c.css",
+    "main.js": "https://deepanshuyadav5020.github.io/My-Website/static/js/main.f1d9e0f7.js",
+    "static/js/787.0edbcda9.chunk.js": "https://deepanshuyadav5020.github.io/My-Website/static/js/787.0edbcda9.chunk.js",
+    "static/media/Deepanshu.jpeg": "https://deepanshuyadav5020.github.io/My-Website/static/media/Deepanshu.031f7d9b0f14b33a0a0f.jpeg",
+    "index.html": "https://deepanshuyadav5020.github.io/My-Website/index.html",
+    "main.f8ed686c.css.map": "https://deepanshuyadav5020.github.io/My-Website/static/css/main.f8ed686c.css.map",
+    "main.f1d9e0f7.js.map": "https://deepanshuyadav5020.github.io/My-Website/static/js/main.f1d9e0f7.js.map",
+    "787.0edbcda9.chunk.js.map": "https://deepanshuyadav5020.github.io/My-Website/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ed686c.css",
+    "static/js/main.f1d9e0f7.js"
+  ]
+}
